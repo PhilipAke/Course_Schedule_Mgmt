@@ -1,0 +1,10 @@
+ECE 3155 - Electronics Laboratory Credit Hours: 1.0
+ECE 3355 - Electronics Credit Hours: 3.0
+ECE 3337 - Signals and Systems Analysis Credit Hours: 3.0
+ECE 3436 - Microprocessor Systems Credit Hours: 4.0
+ECE 3317 - Applied Electromagnetic Waves Credit Hours: 3.0
+ECE 3457 - Digital Electronics Credit Hours: 4.0
+ECE 2202 - Circuit Analysis II Credit Hours: 2
+ECE 2100 - Circuit Analysis Laboratory Credit Hours: 1.0
+ECE 3331 - Programming Applications in Electical and Computer Engineering Credit Hours: 3.0
+ENGI 2304 - Technical Communications for Engineers Credit Hours: 3

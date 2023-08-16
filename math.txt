@@ -1,0 +1,13 @@
+MATH 2413 - Calculus I Credit Hours: 4
+MATH 2414 - Calculus II Credit Hours: 4
+MATH 2415 - Calculus III Credit Hours: 4
+MATH 2318 - Linear Algebra Credit Hours: 3
+MATH 2131 - Linear Algebra Labs with MATLAB Credit Hours: 1
+MATH 3325 - Transition to Advanced Mathematics Credit Hours: 3
+MATH 3330 - Abstract Algebra Credit Hours: 3
+MATH 3331 - Differential Equations Credit Hours: 3
+MATH 3333 - Intermediate Analysis Credit Hours: 3
+MATH 3334 - Advanced Multivariable and Vector Calculus Credit Hours: 3 or
+MATH 3363 - Introduction To PDE Credit Hours: 3 or
+MATH 3364 - Introduction to Complex Analysis Credit Hours: 3
+MATH 4389 - Survey of Undergraduate Mathematics Credit Hours: 3.0

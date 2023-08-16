@@ -1,0 +1,8 @@
+BUSI 1301 - Business Principles Credit Hours: 3.0
+BCIS 1305 - Business Computer Applications Credit Hours: 3.0 *
+MATH 1324 - Finite Math with Applications Credit Hours: 3 *
+ACCT 2301 - Principles of Financial Accounting Credit Hours: 3.0
+ACCT 2302 - Principles of Managerial Accounting Credit Hours: 3.0
+ECON 2301 - Principles of Macroeconomics Credit Hours: 3 *
+ECON 2302 - Principles of Microeconomics Credit Hours: 3 *
+BUSI 2305 - Business Statistics Credit Hours: 3

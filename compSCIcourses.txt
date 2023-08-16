@@ -1,0 +1,11 @@
+COSC 1336 - Computer Science and Programming Credit Hours: 3.0
+COSC 1437 - Introduction to Programming Credit Hours: 4
+COSC 2436 - Programming and Data Structures Credit Hours: 4
+COSC 2425 - Computer Organization and Architecture Credit Hours: 4
+COSC 3320 - Algorithms and Data Structures Credit Hours: 3
+COSC 3340 - Introduction to Automata and Computability Credit Hours: 3
+COSC 3360 - Fundamentals of Operating Systems Credit Hours: 3
+COSC 3380 - Database Systems Credit Hours: 3
+COSC 3336 - Computing Structures Credit Hours: 3
+COSC 4351 - Fundamentals of Software Engineering Credit Hours: 3
+COSC 4353 - Software Design Credit Hours: 3
